@@ -1,0 +1,7 @@
+{
+  "name": "ContentPulse",
+  "description": "Enterprise content intelligence and personalization platform converting streaming behavior and content metadata into reusable decision intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
